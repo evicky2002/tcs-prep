@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class MyClass {
     static void primeFactor(int n) {
         for (int i = 2; i <= n; i++) {

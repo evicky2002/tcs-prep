@@ -1,3 +1,6 @@
+//Super Number - Eg. Given a number the sum of the factorials of the digits should be equal to the given number.
+// n = 145
+// 1! + 4! + 5! = 145
 public class MyClass {
     static boolean isStrong(int n) {
         boolean isStrong = false;
