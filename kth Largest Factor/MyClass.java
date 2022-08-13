@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class MyClass {
     static int kthLargestFactor(int a, int b) {
         int result = 0;
